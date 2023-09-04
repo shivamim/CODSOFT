@@ -4,6 +4,7 @@ from utils import PrepProcesor, columns
 import numpy as np
 import pandas as pd
 import joblib
+import pickle 
 
 model = joblib.load('xgbpipe.joblib')
 st.title('Did they survive? :ship:')
