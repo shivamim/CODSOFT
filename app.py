@@ -21,7 +21,7 @@ def index():
 
 def get_prediction():
 
-    helpers = joblib.load('titanic.pkl')
+    helpers = joblib.load('file.pkl')
     model = helpers['model']
 
     passenger = {};
