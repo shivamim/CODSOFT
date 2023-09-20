@@ -11,13 +11,18 @@
 - 📫 How to reach me **imshiam077@gmail.com**
 
 - ⚡ Fun fact **I am Pro Gamer and Die hard Cricket fan and player**
-https://github.com/shivamim/CODSOFT/blob/main/README.md
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  
 <a href="https://twitter.com/shivams001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivams001" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://linkedin.com/in/shivam-shukla-5500ba239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/shivam-shukla-5500ba239" height="30" width="40" /></a>
+
 <a href="https://instagram.com/_shukla_shivam45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shukla_shivam45" height="30" width="40" /></a>
+
 <a href="https://medium.com/@imshivam077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imshivam077" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
